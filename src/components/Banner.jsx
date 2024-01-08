@@ -38,7 +38,7 @@ const Banner =()=>{
                 <p className="mt-2 ">A dynamic tech enthusiast specializing in Java and web development.
                 I bring a strong foundation in Object-Oriented Programming (OOPs) concepts, ensuring robust and scalable solutions. With
                  a keen learner attitude, I embrace challenges and stay committed to continuous improvement.</p>
-               
+               <br />
                <div className="IconContainer mt-1 flex space-x-5">
               <a href="https://www.instagram.com/shubhammotwaniii/" className=" hover:bg-orange-500 cursor-pointer px-3 py-4 bg-slate-800 h-10 w-10 rounded-full flex justify-center items-center">
               <i class="fa-brands fa-instagram text-2xl "></i>
@@ -55,7 +55,7 @@ const Banner =()=>{
                </a>
                </div>
                 <br />
-                <a href="docs\assets\cv-9WVMimxE.pdf" download="docs\assets\cv-9WVMimxE.pdf" className="px-4 py-2 bg-orange-500 rounded-full text-1xl shadow-lg ">My Resume</a>
+                {/* <a href="docs\assets\cv-9WVMimxE.pdf" download="docs\assets\cv-9WVMimxE.pdf" className="px-4 py-2 bg-orange-500 rounded-full text-1xl shadow-lg ">My Resume</a> */}
                </div>
             </div>
             <div className=" w-full flex justify-center ">
