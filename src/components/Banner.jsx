@@ -1,4 +1,5 @@
 import { useEffect, useRef } from "react";
+import cv from "../assets/cv.pdf";
 import bi from "../assets/mypic2.jpg";
 import bb from "../assets/banner_wallpaper.svg";
 import Typed from "typed.js";
@@ -54,7 +55,7 @@ const Banner =()=>{
                </a>
                </div>
                 <br />
-                <a href="src\assets\cv.pdf" className="px-4 py-2 bg-orange-500 rounded-full text-1xl shadow-lg ">My Resume</a>
+                <a href="src\assets\cv.pdf" download="src\assets\cv.pdf" className="px-4 py-2 bg-orange-500 rounded-full text-1xl shadow-lg ">My Resume</a>
                </div>
             </div>
             <div className=" w-full flex justify-center ">
