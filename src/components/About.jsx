@@ -11,7 +11,7 @@ const About=()=>{
             
             <div className="w-full flex justify-center">
             <div className="space-y-5 w-2/3">
-                <h1 className="text-4xl font-semibold  w-5/6">Eternal Optimist and Lifelong Learne.</h1>
+                <h1 className="text-4xl font-semibold  w-5/6">Eternal Optimist and Lifelong Learner.</h1>
 
                 <p>A passionate learner with a positive mindset. Beyond coding, my heart beats for cricket, finding joy in coding, cricket, and the rhythm of music. Embracing challenges as opportunities, I believe in constant growth. 
                     Let's connect and share the enthusiasm for learning, positivity, and the beautiful game of cricket!</p>
