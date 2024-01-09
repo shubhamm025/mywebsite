@@ -7,7 +7,7 @@ const Projects =()=>{
             <div className="bg-slate-100 hover:bg-slate-300 text-center p-5 shadow-lg rounded-xl space-y-4">
             <i class="fa-solid fa-blog text-4xl"></i>
                 <h1 className="text-4xl">Blogging Website</h1>
-                <p>I developed a dynamic J2EE-powered blogging website, where users can creat their profiles and perform CRUD operations on posts.
+                <p>I developed a dynamic J2EE-powered blogging website, where users can create their profiles and perform CRUD operations on posts.
                 This project showcases my expertise in Java Enterprise technologies, demonstrating a seamless integration of back-end functionalities to support dynamic and engaging content creation.
                 </p>
            <br />
