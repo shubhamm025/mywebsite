@@ -20,8 +20,8 @@ const MyExpertise=()=>{
                 Reach out and let's create something extraordinary together!</p>
                
               <br></br>
-              <a className="hover:underline font-bold" href="mailto:shubhammotwani2511@gmail.com">Email: shubhammotwani2511@gmail.com</a>
-                {/* <a href="src\assets\cv (2).pdf" className="px-4  py-2 bg-orange-500 rounded-full text-1xl shadow-lg ">My Resume</a> */}
+              {/* <a className="hover:underline font-bold" href="mailto:shubhammotwani2511@gmail.com">Email: shubhammotwani2511@gmail.com</a> */}
+                <a href="mailto:shubhammotwani2511@gmail.com" className="px-4  py-2 bg-orange-500 rounded-full text-1xl shadow-lg ">Hire me</a>
                </div>
             </div>
             <div className=" w-full flex justify-center h-fit space-x-3 flex-wrap ">
