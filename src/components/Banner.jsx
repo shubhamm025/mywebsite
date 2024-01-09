@@ -9,7 +9,7 @@ const Banner =()=>{
         const typed = new Typed(el.current, {
             strings: ["Frontend Developer", "Java Developer", "Full Stack Developer"], // Strings to display
             // Speed settings, try diffrent values untill you get good results
-            startDelay: 100,
+            startDelay: 150,
             typeSpeed: 100,
             backSpeed: 100,
             backDelay: 100,
